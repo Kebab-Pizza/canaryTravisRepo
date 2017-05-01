@@ -4,5 +4,6 @@
 public class Canary {
     public static void main(String args[]){
         System.out.println("Canary");
+        System.out.println("testChange");
     }
 }
