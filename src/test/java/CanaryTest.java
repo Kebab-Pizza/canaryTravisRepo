@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by michaelhilton on 5/1/17.
  */
-class CanaryTest {
+public class CanaryTest {
 
     @Test
     void myFirstTest() {
