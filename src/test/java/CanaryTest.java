@@ -8,12 +8,12 @@ import static org.junit.Assert.assertEquals;
 public class CanaryTest {
 
     @Test
-    void myFirstTest() {
+    public void myFirstTest() {
         assertEquals(2, 1 + 1);
     }
 
     @Test
-    void mySecondTest() {
+    public void mySecondTest() {
         assertEquals(2, 3-1);
     }
 
